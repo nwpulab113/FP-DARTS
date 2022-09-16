@@ -9,7 +9,8 @@ More details can be found in our paper.
 #### CUDA
 ## Usage
 ### Search on ImageNet
-Use 
+Use train_search_imagenet.py
 ### Retrain on Image
+Use train_imagenet.py
 ## Citation
 If you find this project useful in your research, please consider cite our paper.
